@@ -1,0 +1,10 @@
+.card,.card1,.card2{
+    width: 270px;
+    padding: 10px;
+    box-shadow: 0 0 10px rgb(20, 13, 155);
+    text-align: center;
+    background-color: rgb(174, 22, 22);
+    color: cornsilk;
+    display: flex;
+    justify-content: space-evenly;
+  }
